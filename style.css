@@ -1,0 +1,61 @@
+.tombol{
+    background: #3F72AF;
+	color: white;
+	font-size: 11pt;
+	border: 2px solid #3F72AF;
+	border-radius: 30px;
+	padding: 10px 20px;
+    float: right;
+    margin-top: 40px;
+    margin-right: 150px;
+}
+
+.tombol:hover{
+    background: white;
+    color: #3F72AF;
+    font-size: 11pt;
+    border: 2px solid lightgrey;
+}
+
+p{
+    font-size: 25pt;
+    color: #3F72AF;
+}
+
+#text{
+    margin-left: 70px;
+    margin-top: 60px;
+}
+
+.tombol_bawah{
+    background: #3F72AF;
+	color: white;
+	font-size: 11pt;
+	border: 2px solid #3F72AF;
+	border-radius: 7px;
+	padding: 10px 20px;
+}
+
+.tombol_bawah2{
+    background: white;
+	color: #3F72AF;
+	font-size: 11pt;
+	border: 2px solid lightgrey;
+	border-radius: 7px;
+	padding: 10px 20px;
+    margin-left: 20px;
+}
+
+.tombol_bawah:hover{
+    background: white;
+    color: #3F72AF;
+    font-size: 11pt;
+    border: 2px solid lightgrey;
+}
+
+.tombol_bawah2:hover{
+    background: #3F72AF;
+    color: white;
+    font-size: 11pt;
+    border: 2px solid #3F72AF;
+}
